@@ -1,4 +1,4 @@
 db:
-  connections: "{connectionString: 'http://localhost:8098', username: 'dbuser', password: 'dbpwd'}"
-  host: mylocalhost
+  connections: "{connectionString: 'http://localhost:8098', username: 'dbuser-updated', password: 'dbpwd-updated'}"
+  host: mylocalhost-updated
   port: 8696
